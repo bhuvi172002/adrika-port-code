@@ -1,0 +1,16 @@
+
+.navbar-brand, .nav-link {
+  color:rgb(185, 185, 185) !important;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0,0.5) !important;
+  
+  &:hover{
+    color: rgb(177, 0, 0) !important;
+    cursor: pointer;
+    
+  }
+}
+
+.navbar-toggler-icon {
+  stroke: rgb(185, 185, 185);
+}
